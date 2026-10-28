@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="img/logo-motalab.png" alt="MotaLab Laboratório e Clínica" width="220">
 
 # MotaLab Laboratório e Clínica
 
